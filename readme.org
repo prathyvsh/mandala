@@ -1,0 +1,6 @@
+* Mandala
+Declarative Vector Graphics
+
+[[./logo.svg]]
+
+
